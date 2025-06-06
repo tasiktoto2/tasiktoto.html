@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://hntvoss.com/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://hntvoss.com/inkaamp/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hntvoss.com/daftar</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hntvoss.com/login</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hntvoss.com/livechat</loc>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
